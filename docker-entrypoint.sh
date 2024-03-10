@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Starting Jagrosh/JMusicBot Container by Qheuss https://github.com/Qheuss/JMusicBotContainer"
+echo "Starting Jagrosh/JMusicBot Container from https://github.com/Qheuss/JMusicBotContainer"
 echo "Version: $JMB_VERSION"
 
 cd /jmb/config
