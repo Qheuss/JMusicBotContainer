@@ -1,3 +1,3 @@
 # JMusicBot container
-![Version](https://github.com/jagrosh/MusicBot/releases/latest) </br>
+![Version](https://img.shields.io/badge/Version-0.4.0-65f0a1) </br>
 Container version of [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot)
