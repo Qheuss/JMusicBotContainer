@@ -1,0 +1,9 @@
+version: '4.0'
+
+services:
+  jmusicbot:
+    image: qheuss/jmusicbot
+    container_name: jmusicbot
+    restart: unless-stopped
+    volumes:
+     - ./config:/jmb/config
