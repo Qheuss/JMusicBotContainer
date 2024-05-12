@@ -1,6 +1,6 @@
 FROM openjdk:11-jre-slim
 
-ENV JMB_VERSION 0.4.0
+ENV JMB_VERSION 0.4.1
 
 RUN mkdir -p /jmb/config
 ADD https://github.com/jagrosh/MusicBot/releases/download/$JMB_VERSION/JMusicBot-$JMB_VERSION.jar /jmb/JMusicBot.jar
