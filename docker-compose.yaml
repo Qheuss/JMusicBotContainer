@@ -1,4 +1,4 @@
-version: '4.2'
+version: '4.3'
 
 services:
   jmusicbot:
@@ -6,4 +6,4 @@ services:
     container_name: jmusicbot
     restart: unless-stopped
     volumes:
-     - ./config:/jmb/config
+      - ./config:/jmb/config
