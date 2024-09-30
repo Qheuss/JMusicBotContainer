@@ -1,0 +1,12 @@
+add:
+git tag -a v0.0 -m "Release version 0.0"
+git push origin v0.0 
+(git push origin --tags) to push all tags
+
+delete:
+git tag -d v0.0
+git push origin --delete v0.0
+
+check:
+git tag
+git ls-remote --tags origin
